@@ -8,3 +8,5 @@ test('clamp is defined', () => { expect(u.clamp).toBeDefined(); });
 
 test('chunk is defined', () => { expect(u.chunk).toBeDefined(); });
 
+test('sum is defined', () => { expect(u.sum).toBeDefined(); });
+
